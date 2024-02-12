@@ -1,3 +1,7 @@
+-- the dataset we'll be working with could be found at this link
+-- https://www.kaggle.com/datasets/hugomathien/soccer
+
+
 select * from match
 -- at first glance at the match table, we see 4 columns: api IDs of the home and away teams
 -- as well as how many goals they scored at that match
