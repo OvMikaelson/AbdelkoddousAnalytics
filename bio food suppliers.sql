@@ -1,3 +1,5 @@
+--in this project we'll be using the dataset we scraped on a previous project from the international directory of
+--supplying companies of bio organic food
 select * from companies
 
 --before we even start anything let's delete duplicates from this table as it will compromise our results later
